@@ -1,3 +1,5 @@
+> Financial Management Planning App. Chart and plan networth. 
+
 TO START CLIENT:
 >CD: "...\client" 
 >Run "npm run serve"
